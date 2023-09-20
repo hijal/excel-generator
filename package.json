@@ -1,0 +1,19 @@
+{
+  "name": "excel-report-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excel.js",
+  "scripts": {
+    "start": "node excel.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.33.0",
+    "stream": "^0.0.2"
+  }
+}
